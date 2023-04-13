@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calculadora-financeira/static/css/main.da94598a.chunk.css",
+    "main.js": "/calculadora-financeira/static/js/main.7788e801.chunk.js",
+    "main.js.map": "/calculadora-financeira/static/js/main.7788e801.chunk.js.map",
+    "runtime-main.js": "/calculadora-financeira/static/js/runtime-main.78aa493f.js",
+    "runtime-main.js.map": "/calculadora-financeira/static/js/runtime-main.78aa493f.js.map",
+    "static/js/2.8bbd3d0a.chunk.js": "/calculadora-financeira/static/js/2.8bbd3d0a.chunk.js",
+    "static/js/2.8bbd3d0a.chunk.js.map": "/calculadora-financeira/static/js/2.8bbd3d0a.chunk.js.map",
+    "index.html": "/calculadora-financeira/index.html",
+    "precache-manifest.aec932978c9e896be597b9c0f1bcdceb.js": "/calculadora-financeira/precache-manifest.aec932978c9e896be597b9c0f1bcdceb.js",
+    "service-worker.js": "/calculadora-financeira/service-worker.js",
+    "static/css/main.da94598a.chunk.css.map": "/calculadora-financeira/static/css/main.da94598a.chunk.css.map",
+    "static/js/2.8bbd3d0a.chunk.js.LICENSE.txt": "/calculadora-financeira/static/js/2.8bbd3d0a.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/calculadora-financeira/static/media/logo.db7d8c3a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78aa493f.js",
+    "static/js/2.8bbd3d0a.chunk.js",
+    "static/css/main.da94598a.chunk.css",
+    "static/js/main.7788e801.chunk.js"
+  ]
+}
