@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e81ba68b79d46b2c74d0ed4a392e79b",
+    "revision": "50db44b0dd337cf01f3592cecdde8d22",
     "url": "/calculadora-build/index.html"
   },
   {
-    "revision": "1e7a6a950db70c5a5242",
+    "revision": "622dc79388f795c733fb",
     "url": "/calculadora-build/static/css/main.da94598a.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calculadora-build/static/js/2.96188212.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1e7a6a950db70c5a5242",
-    "url": "/calculadora-build/static/js/main.4b831995.chunk.js"
+    "revision": "622dc79388f795c733fb",
+    "url": "/calculadora-build/static/js/main.c5e84fe4.chunk.js"
   },
   {
     "revision": "a3ec80e324062fc0d639",
     "url": "/calculadora-build/static/js/runtime-main.627f4ec8.js"
   },
   {
-    "revision": "0d600df967233d199b750e1c8663bbf3",
-    "url": "/calculadora-build/static/media/saga_tributaria_preto.0d600df9.png"
+    "revision": "c18bfa438ff91ec2372ffe1a9e8e88d9",
+    "url": "/calculadora-build/static/media/logo.c18bfa43.png"
   }
 ]);

@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/calculadora-build/static/css/main.da94598a.chunk.css",
-    "main.js": "/calculadora-build/static/js/main.4b831995.chunk.js",
-    "main.js.map": "/calculadora-build/static/js/main.4b831995.chunk.js.map",
+    "main.js": "/calculadora-build/static/js/main.c5e84fe4.chunk.js",
+    "main.js.map": "/calculadora-build/static/js/main.c5e84fe4.chunk.js.map",
     "runtime-main.js": "/calculadora-build/static/js/runtime-main.627f4ec8.js",
     "runtime-main.js.map": "/calculadora-build/static/js/runtime-main.627f4ec8.js.map",
     "static/js/2.96188212.chunk.js": "/calculadora-build/static/js/2.96188212.chunk.js",
     "static/js/2.96188212.chunk.js.map": "/calculadora-build/static/js/2.96188212.chunk.js.map",
     "index.html": "/calculadora-build/index.html",
-    "precache-manifest.126d7d379269904a13ec85859dd02e37.js": "/calculadora-build/precache-manifest.126d7d379269904a13ec85859dd02e37.js",
+    "precache-manifest.5c7692fa16bebcb6c00877b0be7cb98f.js": "/calculadora-build/precache-manifest.5c7692fa16bebcb6c00877b0be7cb98f.js",
     "service-worker.js": "/calculadora-build/service-worker.js",
     "static/css/main.da94598a.chunk.css.map": "/calculadora-build/static/css/main.da94598a.chunk.css.map",
     "static/js/2.96188212.chunk.js.LICENSE.txt": "/calculadora-build/static/js/2.96188212.chunk.js.LICENSE.txt",
-    "static/media/saga_tributaria_preto.png": "/calculadora-build/static/media/saga_tributaria_preto.0d600df9.png"
+    "static/media/logo.png": "/calculadora-build/static/media/logo.c18bfa43.png"
   },
   "entrypoints": [
     "static/js/runtime-main.627f4ec8.js",
     "static/js/2.96188212.chunk.js",
     "static/css/main.da94598a.chunk.css",
-    "static/js/main.4b831995.chunk.js"
+    "static/js/main.c5e84fe4.chunk.js"
   ]
 }
